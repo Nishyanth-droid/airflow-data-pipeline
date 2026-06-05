@@ -18,7 +18,7 @@ A simple Apache Airflow DAG that downloads, processes, and summarizes the Iris d
 ## Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/airflow-data-pipeline.git
+git clone https://github.com/Nishyanth-droid/airflow-data-pipeline.git
 cd airflow-data-pipeline
 
 ### 2. Create and activate virtual environment
